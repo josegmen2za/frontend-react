@@ -5,7 +5,6 @@ import Skill from './Skill';
 
 
 
-
 class Inicio extends Component {
 
 

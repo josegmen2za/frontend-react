@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import axios from 'axios';
 import Moment from 'react-moment';
 import 'moment/locale/es';
-
 import Global from '../Global';
 import ImageDefault from '../assets/images/default.png';
 

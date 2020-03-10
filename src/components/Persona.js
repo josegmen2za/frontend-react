@@ -9,6 +9,7 @@ import ImageDefault from '../assets/images/default.png';
 import 'moment/locale/es';
 
 
+
 class Article extends Component {
 
     url = Global.url;

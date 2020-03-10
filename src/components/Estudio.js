@@ -5,7 +5,6 @@ import Global from '../Global';
 import Sidebar from './Sidebar';
 //import swal from 'sweetalert';
 import ImageDefault from '../assets/images/default.png';
-
 import 'moment/locale/es';
 
 

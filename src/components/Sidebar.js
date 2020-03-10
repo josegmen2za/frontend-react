@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Redirect } from 'react-router-dom';
 import ImageProfile from '../assets/images/profile.png';
 
+
 class Sidebar extends Component {
 
     searchRef = React.createRef();
